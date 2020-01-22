@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    background: black;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.header {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header h1 {
+    color: black;
+    font-size: 45px;
+}
+.header p {
+    color: white;
+    font-size: 18px;
+}
+.head {
+    display: flex
+}
+.main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.futter {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    color: white
+}
+.futter p {
+    font-size: 20px
+}
+.video {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 300px
+}
+.main_header {
+    width: 100%;
+    height: 100px;
+    padding-top: 15px;
+    background-image: url(fari.png), none;
+    background-size: 100% 100%;
+    display: flex;
+    background-position: left, right;
+}
+.rs6_logo {
+    width: 300px;
+    height: 73px;
+    margin-top: 30px
+}
+.vkimg {
+    height: 65px;
+    width: 130px;
+    margin-top: 10px
+}
+.vk2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+.par {
+    margin-top: 20px
+}
+.link {
+    display: flex;
+    width: 100%
+}
+.menu {
+    margin-top: 50px;
+    width: 90%;
+    height: 440px;
+    background-image: url(fotka3.jpg);
+    background-size: 100% 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px
+}
+.menu h3 {
+   text-align: center;
+   margin-right: auto;
+   margin-left: auto;
+}
+.menu p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mr-3 {
+    width: 50%;
+    height: auto;
+}
+.flex {
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px
+}
+.flex p {
+    font-size: 20px;
+    width: 100%
+}
+.vopr {
+    margin-left: 20px;
+    margin-top: 20px
+}
+.badge {
+    height: 20px
+}
+.table {
+    margin-top: 50px;
+    width: 100%;
+}
+.imgvopr {
+    margin-top: 10px;
+    height: auto;
+    width: 100%
+}
+.coln {
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+}
+.card {
+    width: 100%;
+    height: 550px;
+}
+.stroka {
+    display: flex;
+}
+.block {
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.sostimg {
+    width: 220px;
+    height: 220px
+}
+.bodysost h2 {
+    margin-top: 30px;
+    text-align: center;
+}
+.bodysost h3 {
+    margin-top: 30px;
+    text-align: center;
+}
+.page-footer {
+    margin-top: 30px;
+    width: 100%
+}
